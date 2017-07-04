@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  idno: 1
+  clkin: MyString
+  clkout: MyString
+  username: MyString
+  password: MyString
+
+two:
+  idno: 1
+  clkin: MyString
+  clkout: MyString
+  username: MyString
+  password: MyString

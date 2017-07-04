@@ -1,0 +1,8 @@
+---
+4.0.0.alpha1 autoprefixer-rails:>= 6.0.3,sass:>= 3.4.19|checksum:4319b027c221dfd81a0eb5008391dd93e1e62bdc3987b3be2b5cdcec494bc9c0,rubygems:> 1.3.1
+4.0.0.alpha2 autoprefixer-rails:>= 6.0.3,sass:>= 3.4.19|checksum:d6871de6ac53fb6856b7855923aa7aad4437be93befbdf58f4bf40b4a3f5226e,rubygems:> 1.3.1
+4.0.0.alpha3 autoprefixer-rails:>= 6.0.3,sass:>= 3.4.19|checksum:1e6f33a2c6f117a51c3f3c60c9779061152b5c9ae43ed8097f3625fad7b795d7,rubygems:> 1.3.1
+4.0.0.alpha3.1 autoprefixer-rails:>= 6.0.3,sass:>= 3.4.19|checksum:695ce1655f4a2d9bf6b362fb6fb9ef3acf95a13d46d24e6c7edc7b174f1037c4,rubygems:> 1.3.1
+4.0.0.alpha4 autoprefixer-rails:>= 6.0.3,sass:>= 3.4.19|checksum:72cff5216d791374f5a0f77ac4dbeffcefc886f72cabeef80de88f2e6e2def1c,rubygems:> 1.3.1
+4.0.0.alpha5 autoprefixer-rails:>= 6.0.3,sass:>= 3.4.19|checksum:86d449d6b684c5f7eced8cacec7c60deab89058751397a01b95483253acf93aa,rubygems:> 1.3.1
+4.0.0.alpha6 autoprefixer-rails:>= 6.0.3,sass:>= 3.4.19|checksum:65720f3d19a5a82d9f3923bf0350359fe2789d46e636f6c1c6fdbd9405bc10d1,rubygems:> 1.3.1

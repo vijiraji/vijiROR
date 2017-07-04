@@ -1,0 +1,11 @@
+
+<div class="Sign_Form">
+  <h1>Sign Up</h1>
+  <%= form_for :user do |i| %>
+    <p> Username: <%= i.text_field :username%> </p>
+    <p> Email: <%= i.text_field :email%> </p>
+    <p> Password: <%= i.password_field :password%></p>
+    <p> Password Confirmation: <%= i.password_field :password_confirmation%> </p>
+    <%= i.submit :save%>
+   <% end %>
+</div>

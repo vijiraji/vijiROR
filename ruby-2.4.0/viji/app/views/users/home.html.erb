@@ -1,0 +1,181 @@
+
+
+<title>Sign In</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="style/style.css">
+
+<style>
+header {
+    padding: 10px;
+    background-color:rgb(90,90,90);
+    clear: left;
+    width: 100%;
+    text-align: right;
+}
+p {
+font-family: "times new roman";
+margin-left: 25px;
+}
+.pha {
+   font-size:18px;
+ text-align: justify;
+  font-weight: 150%;
+}
+    .navbar {
+      margin-bottom: 0;
+background-color:rgb(90,90,90);
+color: black;
+a-color: black;
+      border-radius: 0;
+ }
+    .row.content {height: 450px}
+    .sidenav {
+      padding-top: 20px;
+
+      height: 100%;
+    }
+form
+{
+    text-align: center;
+position : center;
+}
+text
+{
+color: green;
+}
+.log_field {
+background-color: #edf1f7;
+font-family: "Linux Libertine G";
+margin-left: 25px;
+margin-top: 10%;
+margin-left: 19%;
+     color: black;
+     padding: 0px;
+hight : 100%;
+width: 60%;
+border-radius: 1%;
+
+}
+ fieldset {
+background-color: #edf1f7;
+font-family: "Linux Libertine G";
+margin-left: 25px;
+margin-top: 4%;
+margin-left: 19%;
+      color: black;
+      padding: 0px;
+hight : 100%;
+width: 60%;
+border-radius: 1%;
+
+}
+.navbar-brand{
+color: black;
+}
+    footer {
+      background-color: rgb(90,90,90);
+      color: white;
+      padding: 15px;
+      bottom: 0;
+      position: fixed;
+      width: 100%;
+
+    }
+.container-fluid text-center,.col-sm-8, .col-sm-2 sidenav, .row content
+{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.image
+{
+  margin-top: 10px;
+  margin-bottom: 10px;
+margin-right: 3%;
+border-radius: 1%;
+
+}
+    @media screen and (max-width: 100px) {
+      .sidenav {
+        height: auto;
+        padding: 15px;
+      }
+      .row.content {height:auto;}
+    }
+.form-group
+{
+margin-left: 80px;
+width: 70%;
+}
+
+  </style>
+</head>
+<body>
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+
+      <a class="navbar-brand" href="home.html">Projct Name</a>
+    </div>
+          <ul class="nav navbar-nav navbar-right">
+        <li><a href="register.html"><span class="glyphicon glyphicon-log-in"></span> Register</a></li>
+      </ul>
+    </div>
+</nav>
+<div class="container">
+ <fieldset class="log_field">
+   <div id="legend" align="center">
+   <legend class="">Log In</legend>
+
+   </div>
+   <form class="form-group" action='' method="POST">
+
+   <div class="form-group">
+
+   <label for="name" class="control-label col-sm-5">Username/Email</label>
+   <div class="input-group">
+
+   <span class="input-group-addon"><i class="glyphicon glyphicon-user" aria-hidden="true"></i></span>
+   <input type="text" class="form-control" name="name" id="name"  placeholder="Enter your UserName/ Password"required/>
+
+   </div>
+   </div>
+   <div class="form-group">
+
+   <label for="name" class="control-label col-sm-5">Password</label>
+   <div class="cols-sm-10">
+
+   <div class="input-group">
+
+   <span class="input-group-addon">
+   <i class="glyphicon glyphicon-lock" aria-hidden="true"></i></span>
+   <input type="password" class="form-control" name="name" id="name"  placeholder="Enter your Password"required/>
+
+   </div>
+   </div>
+
+   </div>
+
+   <div class="form-group" align="center">
+   <input type="submit" class="btn btn-success" value="Log In"/>
+
+   </div>
+   <div class="form-group" align="center">
+
+
+   </div>
+   </form>
+   </fieldset>
+</div>
+
+
+
+
+<footer class="container-fluid text-center">
+  <strong> Design And Developed By RoR Training Team</strong>
+</footer>
+</body>
+</html>

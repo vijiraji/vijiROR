@@ -1,0 +1,12 @@
+<h1><%=h @user.name %></h1>
+
+<blockquote>
+<%=h @user.age %>
+<%=h @user.place %>
+<%=h @user.number %>
+</blockquote>
+
+<p>Created: <i><%= time_ago_in_words(@user.created_at) %>ago</i></p>
+
+<%= link_to 'Edit', :action => 'edit', :id => @user.id %> |
+<%= link_to 'Back', :action => nil %>

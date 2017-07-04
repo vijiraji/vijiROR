@@ -1,0 +1,26 @@
+<h1>Home</h1>
+<p>Hello friends</p>
+
+<h3>MENU</h3>
+
+<div class= "Form1">
+  <h4>Employee list</h4>
+      <%= form_tag(:controller => 'systems', :action => 'index')do %>
+    <%= submit_tag("add") %>
+  <% end %>
+</div>
+
+<div class= "Form2">
+  <h4>Account creation</h4>
+  <%= form_for :user do %>
+    <%= submit_tag("add") %>
+  <% end %>
+</div>
+
+<div class= "Form3">
+  <h4>Attendance list</h4>
+  <%= form_for :user do %>
+    <%= submit_tag("View") %>
+  <% end %>
+</div>
+

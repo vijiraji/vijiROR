@@ -1,0 +1,49 @@
+---
+0.1.0 httparty:> 0.6.0,json:> 1.4.0|checksum:c6ca5974735665ad8e23f87fe3236ab751a929e4cf1fea2ee921bb9aed04180e
+0.1.1 httparty:> 0.6.0,json:> 1.4.0|checksum:3f97f9e770a814e11a1bc56f4a6e1906aa474fa714b9227d2806ebcc8330ea03
+0.1.2 httparty:> 0.6.0,json:> 1.4.0|checksum:4484388838f3169b7e04c1d304736080e6348599e3a505a355e630c04e7e2473
+0.1.3 httparty:> 0.6.0,json:> 1.4.0|checksum:ef981b859c2bd4269549183fdefc09dff2d7f35f98bf8e2025993d7480da091c
+0.1.4 httparty:> 0.6.0,json:> 1.4.0|checksum:8e3588b969396f951b0c463727570f02960c26cfd606a54387ed2c0bd28a00ce
+0.1.5 httparty:> 0.6.0,json:> 1.4.0|checksum:beb0dfc2caa6b65e476e5411c008a073d57e352615f27aef7f7886f633f447f4
+0.1.6 activesupport:> 3.0.0,httparty:> 0.6.0,json:> 1.4.0|checksum:1840bdddfcef84ef5016ebcac142393b51f050d0dbeb5faca3121b2f7069f773
+0.1.7 activesupport:> 3.0.0,httparty:> 0.6.0,json:> 1.4.0|checksum:cc7bcdc83c6d77586b9d63afec69ad1781cf2de555f210b9dcc7a478414a72cf
+0.2.0 activesupport:> 3.0.0,httparty:> 0.6.0,json:> 1.4.0|checksum:054a8df13132d7215c735a18b9b320335ad3b3aa299c239e725439f120200113
+0.2.1 activesupport:> 3.0.0,httparty:> 0.6.0,json:> 1.4.0|checksum:588dcce650c3d3ebe523ad47b7ce120f64a8864c9ca69be645d7bc016bcaa78a
+0.3.0 activesupport:> 3.0.0,httparty:> 0.6.0,json:> 1.4.0|checksum:ce8f8caf2de02e5194ae66ebc667cd822a6c94eca0e1a74f6005ca04858f8299
+0.3.1 activesupport:>= 2.3.14,activesupport:>= 2.3.14,httparty:> 0.6.0,httparty:> 0.6.0,json:> 1.4.0,json:> 1.4.0,rdoc:>= 0|checksum:8f23671f488c7c246a989904d9a2fa4645355c5e6eb95a8c0d26ccce5cc344dc
+0.3.2 activesupport:>= 2.3.14,activesupport:>= 2.3.14,httparty:> 0.6.0,httparty:> 0.6.0,json:> 1.4.0,json:> 1.4.0,rdoc:>= 0|checksum:3bb3bd6da4535a11e9e7691defc8dc8d74b862ec2088c926230c773d43d8b230
+0.3.3 activesupport:>= 2.3.14,activesupport:>= 2.3.14,httparty:> 0.6.0,httparty:> 0.6.0,json:> 1.4.0,json:> 1.4.0,rdoc:>= 0|checksum:421900cffd90d88a11b4f752ba84a7bcb227317a45aa2293d35d43ab8f80d8e6
+0.3.4 activesupport:>= 2.3.14,httparty:> 0.6.0,httparty:> 0.6.0,json:> 1.4.0,json:> 1.4.0,rdoc:>= 0|checksum:cf859f46063b7b01432e0c9581d79c059efa74965f10eaa89da92d86bd371e71
+0.3.5 httparty:> 0.6.0,httparty:> 0.6.0,json:> 1.4.0,json:> 1.4.0,rdoc:>= 0|checksum:b06ab2ae1b87b245e1fcbf33638d81b524ba30d91688e1c23b391377de65936f
+0.4.0 httparty:>= 0,json:>= 0|checksum:36ac3daa17f7870ee3b3dc3dce5381c4d8fe3ecd0c787c4e77e95129dc7b3fe0
+0.4.1 httparty:>= 0,json:>= 0|checksum:c71876d5efbf0db4bb01435c29b7456fa443489fc9bf95cf55ccca0b1664d47d
+0.4.2 httparty:>= 0,json:>= 0|checksum:6fdc895cd6619b956585ae227f57bfa8a4817a6829cfa5ceed39af3ae4ae6ce0
+0.4.3 httparty:>= 0,multi_json:>= 0|checksum:a42975b8159618b7b3f936292826cc79090a5d7b4bf2a974a830d0a448274bb2
+0.4.4 httparty:>= 0,multi_json:>= 0|checksum:06c6a1e66de39e3a8c8de750527f8010857378f5cd5ddc108eabbe2d7b8411fe
+0.4.5 httparty:>= 0,multi_json:>= 1.3.4|checksum:03b2a6f4f1de0f713c97eb8a8307ac379cc8ed6341647a9eaa4d2c916566180a
+0.4.6 httparty:>= 0,multi_json:>= 1.3.4|checksum:81a6655ea7eb5adef41b1a53565ec3bbd9cea972d605f10d97a885a0e7c6f4b1
+0.5.0 httparty:>= 0,multi_json:>= 1.3.4|checksum:ffc3789e7800fb5a649793a42aea2584ac4afdd84a49dd0196e3dbb16e48424e
+1.0.0 httparty:>= 0,multi_json:>= 1.3.4|checksum:ab4eaa79127094f9b975ec546fd6217b8cf9b0ade569c4b7e651741932933e54
+1.0.2 httparty:>= 0,multi_json:>= 1.3.4|checksum:b3fa5ef997e0212c4d106b6f78bd7c77f4d0736304de22c2f78bb502827b499b
+1.0.3 httparty:>= 0,multi_json:>= 1.3.4|checksum:e520f140874aa19d203b633b05a1b1ffa72ef4e45a41d56ec16c266e2c65c763
+1.0.4 httparty:>= 0,multi_json:>= 1.3.4|checksum:ee364ed576ec07f20c785c8a3f2aa62fcdaa1e281c56329c740fbc3924c20a10
+1.1.1 httparty:>= 0,multi_json:>= 1.3.4|checksum:16da85391e62e7c175f0c1f7918bdb1a414e8594909726f522fccd799202425b
+1.1.2 httparty:>= 0,multi_json:>= 1.3.4|checksum:10386fd3f54eb4523a126c50f77ba29976432ba2547675b4d4bf17a6c8f9e6f7
+1.1.3 httparty:>= 0,multi_json:>= 1.3.4|checksum:5a0fc3b8d0470b9564b5a31cbc9862d1b73f2144762731f75a3b63e6fa320aea
+1.1.4 httparty:>= 0,multi_json:>= 1.3.4|checksum:3175ba9bdf007e980b5739c9181f2c6ed4a027aa4f6459124c71f91a3169a84a
+1.1.5 httparty:>= 0,multi_json:>= 1.9.0|checksum:302e9c4895eb69b73ad793781b4ef9b41658e949b681c74462f3ac1d7e2b9b12
+1.2.0 httparty:>= 0,multi_json:>= 1.9.0|checksum:4a5195b283084d30e89ba865764fb9cbe74fe912bfb5641b8dabcb730f563849
+2.0.0 faraday:>= 0.9.1,multi_json:>= 1.11.0|checksum:932f418da859292b931b7cc8a0c6aeb2deff2ee738e96a12b0e20cd8d34a4ba4,ruby:>= 2.0.0
+1.2.1 httparty:>= 0,multi_json:>= 1.9.0|checksum:4709db8f15a9cbd43e208a3f06aa3222ee6676d8e38f5193c008ca9eb91bd48f
+2.1.0 faraday:>= 0.9.1,multi_json:>= 1.11.0|checksum:62c72161de9549b93dcdf9e591172812f47d055722ce1a6c15f35597b1aaabf7,ruby:>= 2.0.0
+2.1.1 faraday:>= 0.9.1,multi_json:>= 1.11.0|checksum:a51035cb61d16ac710c238e98fc5ae4431282b34588eaaddd9db36ea79e2c4b0,ruby:>= 2.0.0
+2.1.2 faraday:>= 0.9.1,multi_json:>= 1.11.0|checksum:abb337406022a2efe1282212ede1c731ec7526c5d80526b945258c23a53a25ca,ruby:>= 2.0.0
+2.1.3 faraday:>= 0.9.1,multi_json:>= 1.11.0|checksum:c14a92b15d27438dd027f4301dd0a953b66b78b722fd0ec73ba36899f76a44d1,ruby:>= 2.0.0
+2.2.0 faraday:>= 0.9.1,multi_json:>= 1.11.0|checksum:04c0111de25b53a8c2c79c0165957207ddedb5eae173db4c80eb2b74563f7d6d,ruby:>= 2.0.0
+2.2.1 faraday:>= 0.9.1,multi_json:>= 1.11.0|checksum:6c626227b9346e12dae5cae8ccc91698b6420bb25ba3a44ed1baaa83e751f7c3,ruby:>= 2.0.0
+2.2.2 faraday:>= 0.9.1,multi_json:>= 1.11.0|checksum:39e678adb05aca29adc22697717c7de7ef7ff2dc09ff7eb4d9481694466a711b,ruby:>= 2.0.0
+2.2.3 faraday:>= 0.9.1,multi_json:>= 1.11.0|checksum:8931e0fb3f7e09ceced453c1ea82e7b6d676829c60a3408940bb7c28e3c29710,ruby:>= 2.0.0
+2.2.4 faraday:>= 0.9.1,multi_json:>= 1.11.0|checksum:c453560714657fb6d1101c3ca6f220df500e6be8748c4e217cd7c153685c233d,ruby:>= 2.0.0
+2.2.5 faraday:>= 0.9.1,multi_json:>= 1.11.0|checksum:91f1f0de695ce01112dae6486d27e28b3ece3476a226453a45eb9ee97d998919,ruby:>= 2.0.0
+3.0.1 faraday:>= 0.9.1,multi_json:>= 1.11.0|checksum:18338af2a731134a7ff462e4c5ca31d6b2bbe2eabbcec80046262dafceffeb76,ruby:>= 2.0.0
+3.0.2 faraday:>= 0.9.1,multi_json:>= 1.11.0|checksum:72a62ef6b0f40627c02d2ad4734f05b181afed12ae0d280d58034b1b8a72c6a5,ruby:>= 2.0.0

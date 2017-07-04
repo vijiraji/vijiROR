@@ -1,0 +1,14 @@
+<% @page_title = "UserAuth | Signup" %>
+<div class="Sign_Form">
+  <h1>Sign Up</h1>
+  <%= form_for(:log, :url => {:controller => 'logs', :action => 'create'}) do |f| %>
+
+    <p> Username:</br> <%= f.text_field :name%> </p>
+    <p> Email:</br> <%= f.text_field :email%> </p>
+    <p> Password:</br> <%= f.password_field :password%></p>
+    <%= f.submit "Save My Data" %>
+<strong><div class="logout"><%=link_to "I have an Account", logs_login_path%></div></strong>
+
+ <% end %>
+
+

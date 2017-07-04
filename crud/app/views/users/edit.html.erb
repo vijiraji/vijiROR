@@ -1,0 +1,22 @@
+
+<%= form_for @user, url: users_update_path   do |f| %>
+
+  <p>
+    Name: <%= f.text_field 'name' %>
+  </p>
+   <p>
+    Age: <%= f.text_field 'age' %>
+  </p>
+ 
+   <p>
+    Place: <%= f.text_field 'place' %>
+  </p>
+
+  <p>
+    Number: <%= f.text_field 'number' %>
+  </p>
+
+   <p>
+    <%= f.submit "Save" %>
+  </p>
+<% end %>
